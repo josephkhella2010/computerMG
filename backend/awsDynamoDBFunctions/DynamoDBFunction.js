@@ -1,4 +1,4 @@
-const { ddbDocClient } = require("../congifDynomdb");
+/* const { ddbDocClient } = require("../congifDynomdb");
 const { ScanCommand } = require("@aws-sdk/lib-dynamodb");
 
 async function findAll() {
@@ -11,4 +11,4 @@ async function findAll() {
 
 module.exports = {
   findAll,
-};
+}; */
